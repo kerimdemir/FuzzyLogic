@@ -1,0 +1,76 @@
+E:\StudioProjeler\FuzzySon\FuzzySon\bin\Debug\FuzzySon.exe.config
+E:\StudioProjeler\FuzzySon\FuzzySon\bin\Debug\FuzzySon.exe
+E:\StudioProjeler\FuzzySon\FuzzySon\bin\Debug\FuzzySon.pdb
+E:\StudioProjeler\FuzzySon\FuzzySon\obj\Debug\FuzzySon.Form1.resources
+E:\StudioProjeler\FuzzySon\FuzzySon\obj\Debug\FuzzySon.Properties.Resources.resources
+E:\StudioProjeler\FuzzySon\FuzzySon\obj\Debug\FuzzySon.csproj.GenerateResource.Cache
+E:\StudioProjeler\FuzzySon\FuzzySon\obj\Debug\FuzzySon.exe
+E:\StudioProjeler\FuzzySon\FuzzySon\obj\Debug\FuzzySon.pdb
+E:\StudioProjeler\FuzzySon\FuzzySon\obj\Debug\FuzzySon.csprojResolveAssemblyReference.cache
+E:\StudioProjeler\FuzzySon\FuzzySon\bin\Debug\ZedGraph.dll
+E:\StudioProjeler\FuzzySon\FuzzySon\bin\Debug\ZedGraph.xml
+E:\StudioProjeler\FuzzySon\FuzzySon\bin\Debug\de\ZedGraph.resources.dll
+E:\StudioProjeler\FuzzySon\FuzzySon\bin\Debug\es\ZedGraph.resources.dll
+E:\StudioProjeler\FuzzySon\FuzzySon\bin\Debug\fr\ZedGraph.resources.dll
+E:\StudioProjeler\FuzzySon\FuzzySon\bin\Debug\hu\ZedGraph.resources.dll
+E:\StudioProjeler\FuzzySon\FuzzySon\bin\Debug\it\ZedGraph.resources.dll
+E:\StudioProjeler\FuzzySon\FuzzySon\bin\Debug\ja\ZedGraph.resources.dll
+E:\StudioProjeler\FuzzySon\FuzzySon\bin\Debug\pt\ZedGraph.resources.dll
+E:\StudioProjeler\FuzzySon\FuzzySon\bin\Debug\ru\ZedGraph.resources.dll
+E:\StudioProjeler\FuzzySon\FuzzySon\bin\Debug\sk\ZedGraph.resources.dll
+E:\StudioProjeler\FuzzySon\FuzzySon\bin\Debug\sv\ZedGraph.resources.dll
+E:\StudioProjeler\FuzzySon\FuzzySon\bin\Debug\tr\ZedGraph.resources.dll
+E:\StudioProjeler\FuzzySon\FuzzySon\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\StudioProjeler\FuzzySon\FuzzySon\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\StudioProjeler\FuzzySon\FuzzySon\obj\Debug\FuzzySon.Grafik.resources
+E:\StudioProjeler\FuzzySon\FuzzySon\obj\Debug\FuzzySon.CikisGrafik.resources
+E:\Visual Studio Projeler\FuzzySon\FuzzySon\bin\Debug\FuzzySon.exe.config
+E:\Visual Studio Projeler\FuzzySon\FuzzySon\obj\Debug\FuzzySon.exe
+E:\Visual Studio Projeler\FuzzySon\FuzzySon\obj\Debug\FuzzySon.pdb
+E:\Visual Studio Projeler\FuzzySon\FuzzySon\bin\Debug\FuzzySon.exe
+E:\Visual Studio Projeler\FuzzySon\FuzzySon\bin\Debug\FuzzySon.pdb
+E:\Visual Studio Projeler\FuzzySon\FuzzySon\bin\Debug\ZedGraph.xml
+E:\Visual Studio Projeler\FuzzySon\FuzzySon\bin\Debug\de\ZedGraph.resources.dll
+E:\Visual Studio Projeler\FuzzySon\FuzzySon\bin\Debug\es\ZedGraph.resources.dll
+E:\Visual Studio Projeler\FuzzySon\FuzzySon\bin\Debug\fr\ZedGraph.resources.dll
+E:\Visual Studio Projeler\FuzzySon\FuzzySon\bin\Debug\hu\ZedGraph.resources.dll
+E:\Visual Studio Projeler\FuzzySon\FuzzySon\bin\Debug\it\ZedGraph.resources.dll
+E:\Visual Studio Projeler\FuzzySon\FuzzySon\bin\Debug\ja\ZedGraph.resources.dll
+E:\Visual Studio Projeler\FuzzySon\FuzzySon\bin\Debug\pt\ZedGraph.resources.dll
+E:\Visual Studio Projeler\FuzzySon\FuzzySon\bin\Debug\ru\ZedGraph.resources.dll
+E:\Visual Studio Projeler\FuzzySon\FuzzySon\bin\Debug\sk\ZedGraph.resources.dll
+E:\Visual Studio Projeler\FuzzySon\FuzzySon\bin\Debug\sv\ZedGraph.resources.dll
+E:\Visual Studio Projeler\FuzzySon\FuzzySon\bin\Debug\tr\ZedGraph.resources.dll
+E:\Visual Studio Projeler\FuzzySon\FuzzySon\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\Visual Studio Projeler\FuzzySon\FuzzySon\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\Visual Studio Projeler\FuzzySon\FuzzySon\obj\Debug\FuzzySon.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projeler\FuzzySon\FuzzySon\obj\Debug\FuzzySon.CikisGrafik.resources
+E:\Visual Studio Projeler\FuzzySon\FuzzySon\obj\Debug\FuzzySon.Form1.resources
+E:\Visual Studio Projeler\FuzzySon\FuzzySon\obj\Debug\FuzzySon.Grafik.resources
+E:\Visual Studio Projeler\FuzzySon\FuzzySon\obj\Debug\FuzzySon.Properties.Resources.resources
+E:\Visual Studio Projeler\FuzzySon\FuzzySon\obj\Debug\FuzzySon.csproj.GenerateResource.Cache
+D:\Mühendislik\Visual Studio Projeler\FuzzySon\FuzzySon\bin\Debug\FuzzySon.exe.config
+D:\Mühendislik\Visual Studio Projeler\FuzzySon\FuzzySon\bin\Debug\FuzzySon.exe
+D:\Mühendislik\Visual Studio Projeler\FuzzySon\FuzzySon\bin\Debug\FuzzySon.pdb
+D:\Mühendislik\Visual Studio Projeler\FuzzySon\FuzzySon\bin\Debug\ZedGraph.xml
+D:\Mühendislik\Visual Studio Projeler\FuzzySon\FuzzySon\bin\Debug\de\ZedGraph.resources.dll
+D:\Mühendislik\Visual Studio Projeler\FuzzySon\FuzzySon\bin\Debug\es\ZedGraph.resources.dll
+D:\Mühendislik\Visual Studio Projeler\FuzzySon\FuzzySon\bin\Debug\fr\ZedGraph.resources.dll
+D:\Mühendislik\Visual Studio Projeler\FuzzySon\FuzzySon\bin\Debug\hu\ZedGraph.resources.dll
+D:\Mühendislik\Visual Studio Projeler\FuzzySon\FuzzySon\bin\Debug\it\ZedGraph.resources.dll
+D:\Mühendislik\Visual Studio Projeler\FuzzySon\FuzzySon\bin\Debug\ja\ZedGraph.resources.dll
+D:\Mühendislik\Visual Studio Projeler\FuzzySon\FuzzySon\bin\Debug\pt\ZedGraph.resources.dll
+D:\Mühendislik\Visual Studio Projeler\FuzzySon\FuzzySon\bin\Debug\ru\ZedGraph.resources.dll
+D:\Mühendislik\Visual Studio Projeler\FuzzySon\FuzzySon\bin\Debug\sk\ZedGraph.resources.dll
+D:\Mühendislik\Visual Studio Projeler\FuzzySon\FuzzySon\bin\Debug\sv\ZedGraph.resources.dll
+D:\Mühendislik\Visual Studio Projeler\FuzzySon\FuzzySon\bin\Debug\tr\ZedGraph.resources.dll
+D:\Mühendislik\Visual Studio Projeler\FuzzySon\FuzzySon\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Mühendislik\Visual Studio Projeler\FuzzySon\FuzzySon\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Mühendislik\Visual Studio Projeler\FuzzySon\FuzzySon\obj\Debug\FuzzySon.csprojResolveAssemblyReference.cache
+D:\Mühendislik\Visual Studio Projeler\FuzzySon\FuzzySon\obj\Debug\FuzzySon.CikisGrafik.resources
+D:\Mühendislik\Visual Studio Projeler\FuzzySon\FuzzySon\obj\Debug\FuzzySon.Form1.resources
+D:\Mühendislik\Visual Studio Projeler\FuzzySon\FuzzySon\obj\Debug\FuzzySon.Grafik.resources
+D:\Mühendislik\Visual Studio Projeler\FuzzySon\FuzzySon\obj\Debug\FuzzySon.Properties.Resources.resources
+D:\Mühendislik\Visual Studio Projeler\FuzzySon\FuzzySon\obj\Debug\FuzzySon.csproj.GenerateResource.Cache
+D:\Mühendislik\Visual Studio Projeler\FuzzySon\FuzzySon\obj\Debug\FuzzySon.exe
+D:\Mühendislik\Visual Studio Projeler\FuzzySon\FuzzySon\obj\Debug\FuzzySon.pdb
